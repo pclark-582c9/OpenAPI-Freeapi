@@ -1,7 +1,7 @@
 # 🌟 AI-AllInOne API 中转站
 一个接口聚合 100+ 主流 AI 大模型，统一接入、成本直降，让 AI 调用更高效便捷！
 
-[![GitHub stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=social)](https://github.com/pclark-582c9/openapi-freeapi/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=social)](https://github.com/pclark-582c9/OpenAPI-Freeapi/stargazers)
 
 ## 📌 核心优势
 - **多模聚合**：覆盖通义千问、文心一言、GLM、Deepseek 等 100+ 主流 AI 模型，无需逐个对接
