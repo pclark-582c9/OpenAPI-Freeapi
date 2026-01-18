@@ -1,4 +1,4 @@
-# 🌟 AI-AllInOne API 中转站
+# 🌟 飞秒聚合 API 中转站
 一个接口聚合 100+ 主流 AI 大模型，统一接入、成本直降，让 AI 调用更高效便捷！
 
 [![GitHub stars](https://img.shields.io/github/stars/pclark-582c9/OpenAPI-Freeapi?style=social)](https://github.com/pclark-582c9/OpenAPI-Freeapi/stargazers)
